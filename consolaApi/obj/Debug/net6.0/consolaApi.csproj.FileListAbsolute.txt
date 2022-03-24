@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\consolaApi\consolaApi\bin\Debug\net6.0\consolaApi.exe
+C:\Users\PC\source\repos\consolaApi\consolaApi\bin\Debug\net6.0\consolaApi.deps.json
+C:\Users\PC\source\repos\consolaApi\consolaApi\bin\Debug\net6.0\consolaApi.runtimeconfig.json
+C:\Users\PC\source\repos\consolaApi\consolaApi\bin\Debug\net6.0\consolaApi.dll
+C:\Users\PC\source\repos\consolaApi\consolaApi\bin\Debug\net6.0\ref\consolaApi.dll
+C:\Users\PC\source\repos\consolaApi\consolaApi\bin\Debug\net6.0\consolaApi.pdb
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.AssemblyInfo.cs
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.dll
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\ref\consolaApi.dll
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.pdb
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.genruntimeconfig.cache
+C:\Users\PC\source\repos\consolaApi\consolaApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\consolaApi\consolaApi\obj\Debug\net6.0\consolaApi.csproj.CopyComplete

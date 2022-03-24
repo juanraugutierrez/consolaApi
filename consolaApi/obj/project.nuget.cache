@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFjRGVeF2saFIYOSgFw6FfSOPILa05k1du9xkqnFkAHCnxJrzuHMbMrvQLrc1zgne1fa51GCzzwZG46RCNO00Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\consolaApi\\consolaApi\\consolaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
