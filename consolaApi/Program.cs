@@ -34,16 +34,25 @@ while (reader.Read())
 {
     if (reader.Value != null)
     {
+        String linea = string.Concat("Token: ", reader.TokenType, " Valor: ", reader.Value);
         Console.WriteLine("Token: {0}, Valor: {1}", reader.TokenType, reader.Value);
 #pragma warning disable CS8602 // Desreferencia de una referencia posiblemente NULL.
         var c1 = reader.Value.ToString().Trim();
+        
 #pragma warning restore CS8602 // Desreferencia de una referencia posiblemente NULL.
         string c0;
 
         c0 = reader.TokenType.ToString();
         c0 = c0.TrimEnd().TrimStart().Trim();
         c0 = c0.Replace("\"","\t");
-        sbguias.AppendJoin(c0, "\t", c1, "\n");
+        c0 = c0.Replace("PropertyName", "");
+        String dato = String.Concat(c0, "  ", c1.ToString());
+        dato = dato.Replace("String", "").Replace("Integer", "").Replace("publicBoolean","");
+        sbguias.Append(dato);
+      
+        
+
+
     }
     else
     {
